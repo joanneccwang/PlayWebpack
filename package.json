@@ -1,0 +1,19 @@
+{
+  "name": "playwebpack",
+  "version": "1.0.0",
+  "description": "Learning webpack through tutorial",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "JoanneWang",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
